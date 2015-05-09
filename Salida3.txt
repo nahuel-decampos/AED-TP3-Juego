@@ -4,4 +4,4 @@
    Elige una categoria:
    a) Hardware
    b) Software
-   c) Salir (alternativamente puedes presionar 's'
+   c) Salir (alternativamente puedes presionar 's')
