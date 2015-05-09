@@ -22,7 +22,7 @@ int main (){
         cout << "   Elige una categoria:\n";
         cout << "   a) Hardware\n";
         cout << "   b) Software\n";
-        cout << "   c) Salir (alternativamente puedes presionar 's'\n\n";
+        cout << "   c) Salir (alternativamente puedes presionar 's')\n\n";
         cin >> topic;
         switch (topic)
         {
