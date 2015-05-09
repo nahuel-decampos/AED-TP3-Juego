@@ -16,6 +16,9 @@ int main (){
 
     do
     {
+        cout << "\n";
+        cout << "                   JUEGO DE PREGUNTAS\n";
+        cout << "                   ------------------\n";
         cout << "   Elige una categoria:\n";
         cout << "   a) Hardware\n";
         cout << "   b) Software\n";
